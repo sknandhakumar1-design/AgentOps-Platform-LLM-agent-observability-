@@ -8,7 +8,6 @@
 [![Next.js 14](https://img.shields.io/badge/Next.js-14-000000.svg?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Native-F54A00.svg?logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 <p align="center">
@@ -378,10 +377,6 @@ We welcome contributions from the open-source community!
 Please review [CONTRIBUTING.md](CONTRIBUTING.md) for full development standards and guidelines.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
   <sub>Built with ❤️ for the AI Agent & LLM Developer Community</sub>
